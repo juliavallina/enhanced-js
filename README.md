@@ -4,3 +4,5 @@ This library aims to help developers deals with GTMs enhanced ecommerce metrics.
 
 ## Requirements
 * jQuery 3.1.1 or superior
+
+## Work in progress
