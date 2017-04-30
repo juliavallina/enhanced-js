@@ -16,7 +16,6 @@
 
   var $doc = $(document),
       dataLayer = global.dataLayer,
-      // Available options
       options = {
         currency: 'EUR'
       };
