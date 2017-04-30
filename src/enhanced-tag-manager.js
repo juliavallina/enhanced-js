@@ -2,13 +2,13 @@
  * Enhanced Tag Manager 1.0.0
  * Lib that eases metrics for GTM enhanced ecommerce
  * 
- * https://github.com/juliavallina/AÑADIR
+ * https://github.com/juliavallina/enhanced-js
  * 
  * Copyright 2017, Julia Vallina
  * 
  * Licensed under MIT
  * 
- * Released on: AÑADIR
+ * Released on: April 2017
  */
 
 (function($, global, undefined) {
